@@ -1,0 +1,2 @@
+INSERT INTO `users` (`password`, `username`) VALUES ('root', 'vadcristal');
+INSERT INTO `clients` (`id`, `age`, `email`, `first_name`, `last_name`,`phone`) VALUES ('1', '18', 'vadim.rolex.2005@gmail.com', 'Vadim', 'Voitsehovskiy','0675182222');

@@ -1,0 +1,3 @@
+INSERT INTO `rest`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('оливки, печериці, цибуля, кукурудза, вершковий соус', '/static/images/category/pizza.jpg', 'Карбонара', '75', '1');
+INSERT INTO `rest`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('орегано, чері, перець, бекон, томатний соус', '/static/images/category/pizza.jpg', 'Папероні', '70', '1');
+INSERT INTO `rest`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('мисливські ковбаси, сир Пармезан, сир Моцарелла, сир Дор-Блю, сир Брі', '/static/images/category/pizza.jpg', 'Чотири сири', '100', '1');

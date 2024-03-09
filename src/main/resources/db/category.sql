@@ -1,0 +1,1 @@
+INSERT INTO `rest`.`category` (`description`, `image`, `name`) VALUES ('Замовте справжню італійську піцу', '/static/images/category/pizza.jpg', 'Піца');
